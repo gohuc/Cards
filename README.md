@@ -1,7 +1,7 @@
 # verstka
 
 Пример: 
-![Alt text](images/example.png)
+![Alt text](media/example.png)
 
 Результат:
-![til](verstka\media\result.gif)
+![til](media/result.gif)
